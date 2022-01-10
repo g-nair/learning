@@ -6,6 +6,7 @@
 - Variables
 - Data Types
 - Lists
+- for Loops
 - if Statements
 - and Dictionaries
 
