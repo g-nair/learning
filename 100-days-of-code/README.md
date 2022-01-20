@@ -33,7 +33,7 @@ To make Python something I can utilize more readily, opening up more opportuniti
 
 The "rules" of the challenge are basically to document any day that you've coded for one hour+
 
-Doing anything in consecutive days has always been challenging for me, and so I am expecting short gaps. On particularly motivated days, I may even count 2+ hours as two days of the challenge. This being the case, my first day will be 1/20/2022, and my end date goal is 5/25/2022.
+Doing anything in consecutive days has always been challenging for me, and so I am expecting short gaps. On particularly motivated days, I may even count 2+ hours as two days of the challenge. This being the case, my first day will be 1/10/2022, and my end date goal is 5/25/2022.
 
 If you've made it this far - thank you for your time! I am very open to suggestions/reccomendations, and my progress can be followed either through the [log file](https://github.com/g-nair/learning/blob/master/100-days-of-code/log.md) in this repo
 or by following the Twitter account I made specifically for this [@gauthumb_codes](https://twitter.com/gauthumb_codes).
