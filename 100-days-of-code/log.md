@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+
+### Day 3-4: January 12-20, 2022
+
+Whew! Life happened. No reason to give excuses, but I simply didn't make the time to sit down for a full hour because ... reasons!
+Instead I sat down for 20-30 minutes at a time and learned the following, which I'm going to consider 2 hours == 2 days.
+
+**Progress**:
+- Watched the [Intro to Object-Oriented Programming (OOP) in Python](https://realpython.com/courses/intro-object-oriented-programming-oop-python/) course from RealPython
+  - Reading about OOP in textbooks was never that inspiring, but with this course and making my own example class for fun, I think I have a better grasp on classes.
+- Did a good deal of foundational Pandas learning
+  - Found myself with a small excel dataset to play with and decided to work with it in Python instead of Excel itself. Essentially figured out how to do the basics that I could do in SQL in Pandas, which included `pd.read_excel()`,`pd.merge()` to perform joins, using Select-equivalent syntax to get columns from the dataframe, and using `pd.assign()` to create/add my own calculated field to the dataframe. This was exciting as learning pandas/having a good reason to learn has been on my agenda for years. More to come for sure.
+- Got a detailed review of Entity Relationship Diagrams (ERD) from a [couple YouTube videos](https://youtu.be/QpdhBUYk7Kk)
+  - I have been using these diagrams at work for a while now, but got the spark to look into them further. I previously understood the one to one-to-many type of relationship but became aware of all the other cardinality notations. Definitely a good thing to have in the toolkit.
+
+**Link to work:**
+- Might as well share the [example class](https://github.com/g-nair/learning/blob/master/100-days-of-code/code/RealPython-OOP-Example.py) I created for the OOP course. I had some fun modelling a class around the water bottle that was sitting in front of me.
+
+<br>
+
+---
+
+<br>
+
 ### Day 2: January 11, 2022
 
 **Today's Progress**: Another few chapters of [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) this morning! Topics covered were
@@ -21,6 +44,10 @@ I had never seen anything like it! I ended up spending way too much time trying 
 Thankfully the Python Docs had my back - letting me know to relax... It was just a [Function Annotation](https://docs.python.org/3/tutorial/controlflow.html#function-annotations).
 
 Now I know! I did like the platform a lot, I will have to restart from the 5th intro challenge onward.
+
+<br>
+
+---
 
 <br>
 
