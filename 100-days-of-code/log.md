@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 
 
+### Day 5: January 22, 2022
+
+Went though Chapter 17 of the [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) book today, titled "Working With APIs"<br>
+The source code for the chapter can be found - [here](https://github.com/ehmatthes/pcc_2e/tree/master/chapter_17)
+
+**Progress**:
+- Accessed the GitHub API via [requests](https://docs.python-requests.org/en/latest/) (one of my first times doing any API call ... I think?)
+- Queried for the top Python repos - and found a lot of interesting repos in the process!
+- Took the query output and displayed it in an offline Plotly bar chart (Also a first for me)
+
+The chapter also had a section on retriving articles and associated data from [Hacker News](https://news.ycombinator.com/), which I had only recently heard about.
+
+Great exposure project! It led to some project ideas that would combine the use of the Wikipedia API and the Spotify API!
+
+<br>
+
+---
+
+<br>
+
 ### Day 3-4: January 12-20, 2022
 
 Whew! Life happened. No reason to give excuses, but I simply didn't make the time to sit down for a full hour because ... reasons!
